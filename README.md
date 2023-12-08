@@ -8,10 +8,11 @@ hands-on training by KERALA BLOCKCHAIN ACADEMY
 
 ## Prerequisites
 
-- node.js
-- ubuntu
-- express module
-  
+- Node.js
+- Ubuntu or windows above 10
+- Express module
+- Postman extension
+- 
 ## Usage
 
 
