@@ -1,22 +1,19 @@
 # MY_FIRST_D-APP
+hands-on training by KERALA BLOCKCHAIN ACADEMY
 
-# HAND-ON TRAINING VENUE
-KERALA BLOCKCHAIN ACADEMY 
+# VENUE
+ TRIVANDRUM
 
 # Dcentralized Application
 
-A simple To-Do List application with date and time-based task management.
-
 ## Prerequisites
 
-- Python 3
-- PyQt5
+- node.js
+- ubuntu
+- express module
   
 ## Usage
 
-- Add tasks with specific date and time alerts.
-- Edit and remove tasks.
-- Receive alerts when a task's time arrives.
 
 ## Author
 
@@ -27,7 +24,7 @@ This project is licensed under the APACHE License - see the [License](./LICENSE)
 
 ## Acknowledgments
 
-Thanks to the PyQt community.
+Thanks to the KBA community.
 
 ## Contact
 
@@ -38,8 +35,7 @@ For questions or feedback, please contact: giveawaynino143@gmail.com
 
 ```bash
 # Clone the repository
-git clone https://github.com/dynamo-pentester/CODSOFT_INTERN_TASK_1.git
-
+git clone https://github.com/dynamo-pentester/MY_FIRST_D-APP.git
 # Install required libraries
 pip install PyQt5
 
