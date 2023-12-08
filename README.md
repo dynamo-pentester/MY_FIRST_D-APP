@@ -20,7 +20,7 @@ hands-on training by KERALA BLOCKCHAIN ACADEMY
 dynamo-pentester
 
 ## license
-This project is licensed under the APACHE License - see the [License](./LICENSE) file for details.
+This project is licensed under the APACHE License 2.0 - see the [License](./LICENSE) file for details.
 
 ## Acknowledgments
 
